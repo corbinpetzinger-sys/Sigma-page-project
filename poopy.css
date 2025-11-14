@@ -1,0 +1,28 @@
+h1 {
+    text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.8);
+    font-size: 28px;
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
+
+ul, ol, li {
+    font-size: 18px;
+    border-top-color: aqua;
+    line-height: 1.6;
+    color: #335678;
+}
+
+h2 {
+    text-shadow: 2px 2px 4px rgba(0, 255, 60, 0.8);
+    font-size: 28px;
+    text-decoration: underline;
+    margin-bottom: 15px;
+} 
+
+p {
+    
+    font-size: 18px;
+    border-top-color: aqua;
+    line-height: 1.6;
+    color: #335678;
+}
